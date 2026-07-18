@@ -1,4 +1,4 @@
-# DLS_2_Project
+# DLS_2_Project "LLM агенты"
 
 ### Части проекта:
 
